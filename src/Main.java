@@ -5,7 +5,7 @@ public class Main {
         Qoshish qoshish = new Qoshish();
         Sotish sotish = new Sotish();
         Ochirish ochirish = new Ochirish();
-
+///salom
         Scanner scanner = new Scanner(System.in);
         System.out.println("Oldi sotti dasturiga xush kelibsiz!!!");
         System.out.println("1--Bazaga product qoshish");
